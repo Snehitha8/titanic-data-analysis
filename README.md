@@ -1,5 +1,4 @@
-# titanic-data-analysis
-Exploratory Data Analysis on Titanic Dataset using Python
+
 # 🚢 Titanic Data Analysis Project
 
 ## 📌 Objective
